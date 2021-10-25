@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.topText {
+    text-align: center;
+}
+
+.topText > div {
+    color: #868A96;
+    font-size: 14px;
+}
+
+.topText > div:last-child {
+    margin-bottom: 2rem;
+}
+
+.login {
+    background: #4169E1;
+    width: 100%;
+    text-align: center;
+    border: none;
+    padding: 15px 32px;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+

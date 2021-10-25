@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "The Death of UX/UI Designers",
+        "description": "Application design is currently on that lake as well. Over five years ago, whenever users encountered an error on an app, they would blame themselves. This behavior can be seen in common phrases such as Excuse me for I am technology illiterate. However, it has been changing these days. Large groups and technology corporations are providing exceptional service daily, and those providers are constantly updating the quality of the user experience of their products by deeply understanding the customers. When people are accustomed to these experiences, they will have higher expectations for the other products. They will no longer blame themselves; they blame the product. As UX designers, we bear primary responsibility for this."
+    },
+    {
+        "id": 2,
+        "title": "Learn Anything Faster By Using The Feynman Technique",
+        "description": "ichard Feynman is considered to be one of the most miraculous personalities in scientific history. The 1965 Nobel prize winner on QED (along with J. Schwinger and Tomonaga), Dr. Feynman was a remarkably amazing educator and a great physicist. Feynman, along with many other contributions to science, had created a mathematical theory that accounts for the phenomenon of superfluidity in liquid helium. Thereafter, he had fundamental contributions (along with Murray Gell-Mann) to weak interactions such as beta decay. In his later years, Feynman played a significant role in the development of quark theory by putting forward his Parton model of high energy proton collision processes. He also introduced basic new computational techniques and notations into physics. Besides being a physicist, he was at various times repairer of radios, a picker of locks, an artist, a dancer, a bongo player, a great teacher, and a showman who successfully demonstrated the cause of the 1986 Challenger Shuttle Disaster as part of the Roger’s Commission."
+    },
+    {
+        "id": 3,
+        "title": "7 Java Classes No One Knows About",
+        "description": "To access most of the methods in the currency class, they must be referenced from a currency object. A currency object can represent a specific currency of a country (ex. USD, JPY, CAD). Instead of using a constructor, a currency object can only be created via using the getInstance method. In this particular case, getInstance takes in a single string parameter, a given currency code. The currency instance of this code is returned, and the object is therefore created."
+    },
+    {
+        "id": 4,
+        "title": "I Started a Fiverr Side Hustle 30 Days Ago",
+        "description": "I regretted not joining Adrian Brambila’s course, the Brambila Method when it first launched over the summer. I had major FOMO and when the opportunity rolled around, I jumped on it! Brambila is an entrepreneur that makes millions running his businesses online. He calls himself a serial entrepreneur and I first stumbled upon him on Tik Tok. His Tik Toks showing his income were impressive and I liked that he had his dad working for him and showed how much he was paying his father. Really cool. Anyway, his course is about side hustling. One of the things he shares is making money with Fiverr. So, I gave it a go and here’s how I did."
+    },
+    {
+        "id": 5,
+        "title": "Angular is Costing Companies Billions",
+        "description": "I know I’m going to get hate-mail for writing this piece, but, so be it. Someone has got to finally say what many of us as experienced software engineers have been thinking for some time now. I’ve been a developer for over 20 years working for some of North America’s most prestigious companies. For several years now I’ve been watching the state of UI and how it’s gone from bad to worse. Specifically, I’m talking about fad-tech, those cutesy not-so-little pieces of JS and CSS that are supposed to be all the rage with the newbie crowd and now even with some seasoned engineers who should know better. The snowballing culture of using these frameworks, like Angular, have avalanched us into code hell with no end in sight of when this nonsense is ever going to level off. Everyday I see job postings come into my email, companies of all sizes scrambling for EXPERIENCED Angular developers with at least 5 years of experience building and maintaining this mess we call state-of-the-art UI."
+    }
+]

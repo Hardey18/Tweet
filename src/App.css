@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;1,600&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #F7F9FE;
+    font-family: 'Mulish', sans-serif;
+}
+
+.likes {
+    margin-right: 10px;
+}
+
+.card-container {
+    background: #F7F9FE;
+}
+
+.logout-button {
+    position: absolute;
+    right: 0;
+    z-index: 10;
+}
+
+.bottom-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.like-dislike {
+    display: flex;
+}
+
+.comment-name-time {
+    color: lightgrey;
+}
+
+/* style={{ position: "absolute", right: '0', zIndex: "10" }} */

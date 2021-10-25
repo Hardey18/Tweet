@@ -1,0 +1,96 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.innerContainer {
+    /* background: red; */
+}
+
+.topText {
+    text-align: center;
+}
+
+.topText > div {
+    color: #868A96;
+    font-size: 14px;
+}
+
+.topText > div:last-child {
+    margin-bottom: 2rem;
+}
+
+.inputContainer {
+    display: flex;
+}
+
+.left {
+    margin-right: 14px;
+}
+
+.right {
+    margin-left: 14px;
+}
+
+.left, .right {
+    width: 50%;
+}
+
+.textInput {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    background: transparent;
+    border: none;
+    border: 1px solid #868A96;
+    outline: none;
+}
+
+.textInput::placeholder {
+    font-family: 'Mulish', sans-serif;
+}
+
+.signUp {
+    background: #4169E1;
+    width: 100%;
+    text-align: center;
+    border: none;
+    padding: 15px 32px;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.noAccount {
+    text-align: center;
+    font-size: 14px;
+    color: #868A96;
+}
+
+.logIn {
+    color: #4169E1;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .inputContainer {
+        display: block;
+    }
+
+    .left {
+        margin-right: 0;
+    }
+    
+    .right {
+        margin-left: 0;
+    }
+    
+    .left, .right {
+        width: 100%;
+    }
+}
